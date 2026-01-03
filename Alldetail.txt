@@ -1,0 +1,8 @@
+1)Variables & Data type
+2)Input & Output
+3)Operators
+4)Conditional Statements(if,elif,else)
+5)Loops(for,while)
+6)List
+7)Tuple
+8)Dictionaries
